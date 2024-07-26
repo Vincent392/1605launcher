@@ -1,2 +1,2 @@
-# Ext-Launcher-Fix
-A Fix For glowiak's launcher
+# 1605launcher
+A Cross-Platform Java 8 written Alphaver launcher
